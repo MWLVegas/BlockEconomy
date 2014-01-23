@@ -1,0 +1,7 @@
+name: BlockEconomy
+main: com.ivalicemud.be.BlockEconomy
+version: 2.2
+commands:
+   blecon:
+      description: Main commands for the Block Economy plugin
+      usage: /blecon (options)
